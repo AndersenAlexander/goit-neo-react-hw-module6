@@ -55,27 +55,29 @@ React
 
 1. **Clone the repository:**
 
-```bash
-Copiază
-git clone https://github.com/yourusername/goit-neo-react-hw-module6.git
-Change into the project directory:
-
-```bash
-Copiază
-cd goit-neo-react-hw-module6
-
-2. **Install dependencies:**
-
-```bash
-Copiază
-npm install
+    ```bash
+    Copiază
+    git clone https://github.com/yourusername/goit-neo-react-hw-module6.git
 
 
-3. **Start the development server:**
+2. **Change into the project directory:**
 
-```bash
-Copiază
-npm run dev
+    ```bash
+    Copiază
+    cd goit-neo-react-hw-module6
+
+3. **Install dependencies:**
+
+    ```bash
+    Copiază
+    npm install
+
+
+4. **Start the development server:**
+
+    ```bash
+    Copiază
+    npm run dev
 
 Your application should now be running at http://localhost:3000 (or the default port provided by Vite).
 
