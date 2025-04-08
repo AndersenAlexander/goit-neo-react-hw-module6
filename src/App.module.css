@@ -1,0 +1,41 @@
+/* src/App.module.css */
+.pageWrapper {
+  position: relative;
+  min-height: 100vh;
+  padding-bottom: 50px;
+  box-sizing: border-box;
+}
+
+.header {
+  background-color: #fff;
+  color: #000000;
+  padding: 20px 0;
+  padding-left: 100px;
+}
+
+.formSection {
+  margin-left: 100px;
+  margin-top: 100px;
+}
+
+.searchSection {
+  margin-left: 100px;
+  margin-top: 50px;
+}
+
+.contactListSection {
+  margin-left: 100px;
+  margin-top: 50px;
+}
+
+.footer {
+  background-color: #000;
+  color: #fff;
+  text-align: center;
+  height: 60px;
+  line-height: 60px;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
