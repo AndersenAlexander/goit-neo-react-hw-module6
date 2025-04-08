@@ -14,6 +14,40 @@ This project is a Contact Book application built using React with Redux Toolkit 
 
   - **Deployment**
 
+## Design
+
+![Screenshot 2025-04-08 162401](https://github.com/user-attachments/assets/b2d1452b-46fa-48c8-a2db-1f21f669a478)
+
+## Project Structure
+    goit-neo-react-hw-module6/
+    ├── node_modules/
+    ├── public/
+    │   ├── AlexanderAndersen.jpg       
+    │   └── favicon-[sizes].png
+    ├── src/
+    │   ├── components/
+    │   │   ├── ContactsForm/
+    │   │   │   ├── ContactsForm.jsx
+    │   │   │   └── ContactsForm.module.css
+    │   │   ├── ContactList/
+    │   │   │   ├── ContactList.jsx
+    │   │   │   └── ContactList.module.css
+    │   │   └── SearchBox/
+    │   │       ├── SearchBox.jsx
+    │   │       └── SearchBox.module.css
+    │   ├── redux/
+    │   │   ├── contactsSlice.js
+    │   │   ├── filtersSlice.js
+    │   │   └── store.js
+    │   ├── App.jsx
+    │   ├── App.module.css
+    │   ├── index.css
+    │   └── main.jsx
+    ├── .gitignore
+    ├── package.json
+    └── vite.config.js
+
+
 ## License
 
 ## Features
